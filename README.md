@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jesús
 
-<!--
-**Jesuusml/Jesuusml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer apasionado por resolver problemas complejos con soluciones elegantes 🧩
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React.js • JavaScript • Bootstrap/CSS3
+**Backend:** Python (Flask)
+**Database:** PostgreSQL
+**Tools:** Git • Postman • Figma • VSCode
+
+## 💼 Proyectos Destacados
+
+- **[Trueketeo](https://github.com/Jesuusml/Trueketeo)** - Sistema de intercambio P2P con React y Flask
+- **[VetSystem]** *(próximamente)* - Sistema de gestión veterinaria fullstack
+
+## 📫 Conecta conmigo
+
+[LinkedIn](https://www.linkedin.com/in/jesus-xtr/) • [Email](mailto:jesuusmartin18@gmail.com)
+
+---
+💡 Siempre aprendiendo, siempre construyendo
