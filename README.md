@@ -4,10 +4,10 @@ Fullstack Developer apasionado por resolver problemas complejos con soluciones e
 
 ## 🚀 Tech Stack
 
-**Frontend:** React.js • JavaScript • Bootstrap/CSS3
-**Backend:** Python (Flask)
-**Database:** PostgreSQL
-**Tools:** Git • Postman • Figma • VSCode
+**Frontend:** React.js • JavaScript • Bootstrap/CSS3  
+**Backend:** Python (Flask)  
+**Database:** PostgreSQL  
+**Tools:** Git • Postman • Figma • VSCode  
 
 ## 💼 Proyectos Destacados
 
